@@ -26,14 +26,11 @@
 
 <img align="left" alt="CSS5" width="26px" src="https://i.imgur.com/nGTQ3qL.png" />
 
-<img align="left" alt="SQL" width="26px" src="https://i.imgur.com/1oR2qLS.png
-" />
+<img align="left" alt="SQL" width="26px" src="https://i.imgur.com/1oR2qLS.png" />
 
-<img align="left" alt="PostgreSQL" width="26px" src="https://i.imgur.com/nrJjRH2.png
-" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://i.imgur.com/nrJjRH2.png" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/NvHyUCB.png
-" />
+<img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/NvHyUCB.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
