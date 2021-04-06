@@ -1,5 +1,3 @@
-### Hi there, I'm Fernando - aka [nando-dotjs] 👋
-
 ## I'm a Student, IT Technician and Developer!
 
 - 🔭 I’m doing an IT grade carrer on UTEC. Currently on the penultimate year (3/4)
@@ -13,7 +11,7 @@
 
 
 [<img align="left" alt="nando-dotjs | LinkedIn" width="22px" src="https://i.imgur.com/WqP5qcE.png" />][linkedin]
-[<img align="left" alt="nando-dotjs | Instagram" width="26px" src="https://i.imgur.com/NgZJYSe.png" />][instagram]
+[<img align="left" alt="nando-dotjs | Instagram" width="28px" src="https://i.imgur.com/NgZJYSe.png" />][instagram]
 
 
 <br />
