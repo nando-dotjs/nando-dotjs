@@ -38,6 +38,10 @@
 
 <img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/NvHyUCB.png" />
 
+<img align="left" alt="GitBash" width="26px" src="https://i.imgur.com/o2NB9KF.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/7BAKOpj.png" />
+
 
 
 
