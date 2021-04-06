@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="nando-dotjs | LinkedIn" width="22px" src="https://i.imgur.com/LPUx6lF.png" />][linkedin]
-[<img align="left" alt="nando-dotjs | Instagram" width="28px" src="https://www.freepik.com" />][instagram]
+[<img align="left" alt="nando-dotjs | Instagram" width="28px" src="https://i.imgur.com/O6EU9bX.png" />][instagram]
 
 
 <br />
