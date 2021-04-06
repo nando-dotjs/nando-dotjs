@@ -53,9 +53,6 @@
 
 
 
-<img align="left" alt="Nandodotjs's GitHub Stats" src="https://github-readme-stats-gules-sigma.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-
-
 [instagram]: https://www.instagram.com/fer_perezuy
 [linkedin]: https://www.linkedin.com/in/fernando-perez-pintos/
 [facebook]: https://www.facebook.com/fernandoperezuy/
