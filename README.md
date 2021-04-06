@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nando-dotjs | LinkedIn" width="22px" src="https://www.flaticon.es/autores/pixel-perfect" />][linkedin]
+[<img align="left" alt="nando-dotjs | LinkedIn" width="22px" src="https://i.imgur.com/LPUx6lF.png" />][linkedin]
 [<img align="left" alt="nando-dotjs | Instagram" width="28px" src="https://www.freepik.com" />][instagram]
 
 
