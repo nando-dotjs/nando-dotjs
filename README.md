@@ -43,7 +43,7 @@
 
 <br>
 
-<img align="left" alt="Nandodotjs's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nando-dotjs&show_icons=true&hide_border=true" />
+<img align="left" alt="Nandodotjs's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nando-dotjs&show_icons=true&theme=radical" />
 
 
 [instagram]: https://www.instagram.com/fer_perezuy
