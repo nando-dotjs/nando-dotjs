@@ -12,8 +12,8 @@
 ### Connect with me:
 
 [<img align="left" alt="nando-dotjs | LinkedIn" width="22px" src="https://i.imgur.com/LPUx6lF.png" />][linkedin]
-[<img align="left" alt="nando-dotjs | Instagram" width="22px" src="https://i.imgur.com/mrY0L0z.png" />][instagram]
 [<img align="left" alt="nando-dotjs | Facebook" width="22px" src="https://i.imgur.com/5NQvPq7.png" />][facebook]
+[<img align="left" alt="nando-dotjs | Instagram" width="22px" src="https://i.imgur.com/mrY0L0z.png" />][instagram]
 
 
 <br />
@@ -21,6 +21,11 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="HTML5" width="26px" src="https://i.imgur.com/gn5v2Ag.png" />
+
+<img align="left" alt="CSS5" width="26px" src="https://i.imgur.com/nGTQ3qL.png" />
+
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
