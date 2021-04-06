@@ -3,7 +3,7 @@
 ## I'm a Student, IT Technician and Developer!
 
 - 🔭 I’m doing an IT grade carrer on UTEC. Currently on the penultimate year (3/4)
-- 🌱 I’m currently improving every day on PERN and MERN stack.
+- 🌱 I’m currently learning PERN and MERN stack.
 - 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: Become a Full Stack Developer
 - ⚡ Fun fact: I love to play guitar and chess
@@ -26,15 +26,19 @@
 
 <img align="left" alt="CSS5" width="26px" src="https://i.imgur.com/nGTQ3qL.png" />
 
+<img align="left" alt="JS" width="26px" src="https://i.imgur.com/zMhkymc.png" />
+
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="Node.js" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
 <img align="left" alt="SQL" width="26px" src="https://i.imgur.com/1oR2qLS.png" />
 
 <img align="left" alt="PostgreSQL" width="26px" src="https://i.imgur.com/nrJjRH2.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/NvHyUCB.png" />
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
 
