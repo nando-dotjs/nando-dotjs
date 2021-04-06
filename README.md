@@ -1,4 +1,4 @@
-### Hello, I'm Fernando - aka [nando-dotjs] 👋
+### Hello, I'm Fernando 👋
 
 ## I'm a Student, IT Technician and Developer!
 
