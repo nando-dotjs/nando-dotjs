@@ -51,11 +51,8 @@
 
 <br />
 
-### :zap: Recent Activity
-
 <details>
-  
-  <br />
+
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
