@@ -1,5 +1,9 @@
 ### Hello, I'm Fernando 👋
 
+![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![image](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 ## I'm a Student, IT Technician and Developer!
 
 - 🔭 I’m doing an IT grade carrer on UTEC. Currently on the penultimate year (3/4)
