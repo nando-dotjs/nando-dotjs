@@ -13,7 +13,7 @@
 
 
 [<img align="left" alt="nando-dotjs | LinkedIn" width="22px" src="https://i.imgur.com/WqP5qcE.png" />][linkedin]
-[<img align="left" alt="nando-dotjs | Instagram" width="22px" src="https://i.imgur.com/NgZJYSe.png" />][instagram]
+[<img align="left" alt="nando-dotjs | Instagram" width="26px" src="https://i.imgur.com/NgZJYSe.png" />][instagram]
 
 
 <br />
@@ -29,7 +29,7 @@
 
 
 
----
+
 
 
 
