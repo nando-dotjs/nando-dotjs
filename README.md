@@ -21,10 +21,12 @@
 
 <br />
 
-### Languages and Tools:
+
+### Languages:
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -32,28 +34,13 @@
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+### Frameworks:
 
-<img align="left" alt="HTML5" width="26px" src="https://i.imgur.com/gn5v2Ag.png" />
+### Tools:
 
-<img align="left" alt="CSS5" width="26px" src="https://i.imgur.com/nGTQ3qL.png" />
 
-<img align="left" alt="JS" width="26px" src="https://i.imgur.com/FK6RKjs.png?1" />
 
-<img align="left" alt="Node.js" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="25px" src="https://i.imgur.com/ijPsXdY.png" />
-
-<img align="left" alt="GitBash" width="26px" src="https://i.imgur.com/o2NB9KF.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/7BAKOpj.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://i.imgur.com/xuab0bA.png" />
-
-<img align="left" alt="PostgreSQL" width="26px" src="https://i.imgur.com/DSRuyqI.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/NvHyUCB.png" />
 
 <br />
 <br />
