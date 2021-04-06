@@ -34,7 +34,7 @@
 
 <img align="left" alt="SQL" width="26px" src="https://i.imgur.com/1oR2qLS.png" />
 
-<img align="left" alt="PostgreSQL" width="26px" src="https://i.imgur.com/nrJjRH2.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://i.imgur.com/DSRuyqI.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/NvHyUCB.png" />
 
