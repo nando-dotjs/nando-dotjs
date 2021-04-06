@@ -29,17 +29,21 @@
 <img align="left" alt="MySQL" width="26px" src="https://i.imgur.com/xuab0bA.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://i.imgur.com/DSRuyqI.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/NvHyUCB.png" />
+<br />
 
 ### 💻 Libraries:  
 
 ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<br />
 
 ### 💻 Packages Manager:  
+<br />
 
 ![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<br />
 
 ### 💻 Tools:
 
