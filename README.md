@@ -2,6 +2,7 @@
 
 - 🔭 I’m doing an IT grade carrer on UTEC. Currently on the penultimate year (3/4)
 - 🌱 I’m currently learning PERN and MERN stack.
+- 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: Become a Full Stack Developer
 - ⚡ Fun fact: I love to play chess
 
